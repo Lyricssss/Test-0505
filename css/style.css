@@ -27,7 +27,7 @@ ul{
 
 .header__nav{
     padding: 25px 0;
-    background: gray;
+    background: black;
 }
 
 .header__nav-list{
@@ -46,7 +46,7 @@ ul{
 }
 
 .header__content{
-    background: bisque;
+    background: yellow;
     height: 800px;
     display: flex;
     justify-content: center;
@@ -57,12 +57,12 @@ ul{
 
 .header__content-title{
     font-size: 50px;
-    color: white;
+    color: black;
 }
 
 .header__content-text{
     font-size: 30px;
-    color: white;
+    color: black;
 }
 
 .main{
